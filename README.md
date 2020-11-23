@@ -24,8 +24,12 @@ Contents
   - Connecting to Broker
   - Subscribing & Publishing
   - Subscribing Loop
+  
+How to use
+=============
 
 #### - Broker: Mosquitto
+mosquitto_sub -t "#" -p 1883
 
 References
 =============
