@@ -33,6 +33,11 @@ How to use
 mosquitto_sub -t "#" -p 1883
 ```
 
+#### - Running MQTT protocol py example
+```
+python MQTT_protocol_python.py --host 10.20.0.159 --port 1883 --topic login --message hi
+```
+
 References
 =============
 
