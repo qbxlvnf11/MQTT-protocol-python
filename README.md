@@ -28,8 +28,10 @@ Contents
 How to use
 =============
 
-#### - Broker: Mosquitto
+#### - Running Mosquitto broker example
+```
 mosquitto_sub -t "#" -p 1883
+```
 
 References
 =============
